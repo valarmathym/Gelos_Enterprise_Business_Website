@@ -29,7 +29,8 @@ Call-to-action buttons:
 “Know More”
 Buttons redirect to dedicated case study pages
 Carousel supports swipe functionality and slide indicators
-2. Section 2 – Company Offerings
+
+3. Section 2 – Company Offerings
 
 Accordion-style layout including:
 
