@@ -1,12 +1,12 @@
 # Gelos_Enterprise_Business_Website
 
-Project Overview:
+## Project Overview:
 
 This project is a responsive, accessible website developed for Gelos Enterprises, a technology services company. The website showcases the company’s offerings, values, and case studies while providing an interactive and user-friendly interface.
 
 The design and layout strictly follow the official Gelos style guide, ensuring consistency in branding, typography, colour schemes, and UI elements.
 
-Client Requirements:
+## Client Requirements:
 
 The client required a modern website with:
 
@@ -18,8 +18,8 @@ Grid-based layout for company values
 A contact form with validation
 Full accessibility support (screen reader-friendly)
 
-Website Structure:
-1. Section 1 – Case Studies (Slider)
+## Website Structure:
+### Section 1 – Case Studies (Slider)
 Two slides with background images
 Headings:
 Improving operations through Gelos products & services
@@ -30,10 +30,9 @@ Call-to-action buttons:
 Buttons redirect to dedicated case study pages
 Carousel supports swipe functionality and slide indicators
 
-3. Section 2 – Company Offerings
+### Section 2 – Company Offerings
 
 Accordion-style layout including:
-
 Digital Transformation
 Cloud Services
 Artificial Intelligence
@@ -41,7 +40,7 @@ Artificial Intelligence
 Each accordion expands to reveal detailed descriptions.
 Includes internal navigation (e.g., “Contact Us” link).
 
-3. Section 3 – Company Values
+### Section 3 – Company Values
 
 Grid-based layout displaying:
 
@@ -51,7 +50,7 @@ Innovation
 
 Each value includes an icon and descriptive text.
 
-4. Section 4 – Contact Us
+### Section 4 – Contact Us
 
 Split layout:
 
@@ -65,17 +64,17 @@ Validation:
 Error messages for invalid input
 Required field check before submission
 
-Navigation:
+## Navigation:
 Fixed hamburger menu (remains static on scroll)
 
-Menu links:
+## Menu links:
 About the Company
 Offerings
 Company Values
 Contact Us
 Smooth scrolling to sections
 
-Accessibility Features:
+## Accessibility Features:
 
 This website follows accessibility best practices:
 
@@ -87,7 +86,7 @@ Keyboard navigability
 Skip-to-content link
 Screen reader compatibility
 
-Design Guidelines:
+## Design Guidelines:
 Built according to Gelos Style Guide
 Consistent use of:
 Colour palette
@@ -95,7 +94,7 @@ Typography
 Spacing and layout
 High-contrast visuals for readability
 
-⚙️ Features
+## ⚙️ Features
 Responsive design (mobile, tablet, desktop)
 Interactive carousel with swipe support
 Accordion UI components
@@ -107,11 +106,11 @@ CSS3
 JavaScript
 Bootstrap, Tailwind
 
-Additional Notes
+## Additional Notes
 Images are sourced from Pexels (open-source images)
 All buttons and navigation elements are functional and linked
 Website is optimized for usability and accessibility
 
-Author:
+## Author:
 Valarmathy
 (Web Developer)
