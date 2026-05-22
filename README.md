@@ -1,4 +1,5 @@
-# Gelos_Enterprise_Business_Website _ Client Requirements Document
+# Gelos_Enterprise_Business_Website - Version 0.0
+### Project Overview, Client requirements and completion documentation
 
 ## Project Overview:
 
