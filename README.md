@@ -1,6 +1,6 @@
 # Gelos_Enterprise_Business_Website - Version 0.0
-### Project Overview, Client requirements and completion documentation
-
+### Project Overview, Client Requirements, and Project Completion Documentation
+-------
 ## Project Overview:
 
 This project is a responsive, accessible website developed for Gelos Enterprises, a technology services company. The website showcases the company’s offerings, values, and case studies while providing an interactive and user-friendly interface.
