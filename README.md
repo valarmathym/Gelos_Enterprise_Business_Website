@@ -75,6 +75,11 @@ Company Values
 Contact Us
 Smooth scrolling to sections
 
+##  Responsive Design
+- Mobile-friendly layout
+- Tablet and desktop support
+- Flexible grid and navigation system
+
 ## Accessibility Features:
 
 This website follows accessibility best practices:
